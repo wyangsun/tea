@@ -1,0 +1,2 @@
+茉莉花茶是一种非常著名的茶，但它不属于六大茶类。它属于再加工茶，因为它其中加入了其他非茶叶的茉莉花。当然它也很好喝。
+Jasmine tea is a very famous tea, but it does not belong to the six major tea categories. It is a processed tea because other non-tea jasmine flowers are added to it. Of course it tastes good too.

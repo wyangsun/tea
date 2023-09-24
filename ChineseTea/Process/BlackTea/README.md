@@ -1,0 +1,3 @@
+红茶按照工艺可以分为小种红茶、功夫红茶和红碎茶。
+
+Black tea is one of the most popular and widely consumed types of tea around the world. It is known for its bold and robust flavor, dark infusion color, and invigorating qualities. While it is often referred to as "black tea" in English, it is known as "红茶" (hóngchá) in Chinese, which literally translates to "red tea." This name comes from the reddish hue of the tea's liquor.
