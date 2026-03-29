@@ -1,0 +1,15 @@
+title: Chinese Tea | 中国茶
+description: A comprehensive guide to Chinese tea culture, categories, and brewing methods. 中国茶文化、分类与冲泡方法的综合指南。
+theme: jekyll-theme-cayman
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+exclude:
+  - .claude/
+  - LICENSE
+  - .gitignore

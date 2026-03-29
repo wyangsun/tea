@@ -1,21 +1,52 @@
-# Introduction to White Tea:
-White tea is a type of tea renowned for its gentle flavor, delicate aroma, and health benefits. It is often referred to as the "living fossil" of tea, as its production process is relatively simple, preserving the natural characteristics of tea leaves. White tea is primarily produced in the Fujian province of China, with regions such as Fuding and Languan renowned for their white tea production.
+---
+layout: default
+title: White Tea
+---
 
-## Production Process of White Tea:
-The production of white tea involves straightforward steps, typically including the following:
+# White Tea (白茶)
 
-Harvesting: White tea is usually made from tender buds and leaves, rich in tea polyphenols and amino acids.
-Withering: After harvesting, the tea leaves are naturally withered under sunlight or indoors to reduce moisture content, without significant fermentation.
-Drying: The tea leaves are gently dried at low temperatures, helping to preserve the natural components and aroma of the tea.
-Due to its uncomplicated processing, white tea often retains the natural characteristics of the tea plant, resulting in a mild flavor profile with a unique taste.
+[中文版](README_cn.md) | [← Back to Home](../../../README.md)
 
-## Different Varieties of White Tea:
-White tea comes in various varieties, with some of the most famous including:
+## Overview
 
-Silver Needle (Baihao Yinzhen): This is the highest-grade white tea, made from tender buds that have a silvery-white appearance. It offers a sweet taste and floral aroma.
-White Peony (Baimudan): White Peony is made from both buds and leaves, producing a clear tea liquor with fruity and floral notes.
-Shoumei: Shoumei is made from slightly older tea leaves, often containing more leaves and fewer buds. It has a bolder flavor while retaining the mild characteristics of white tea.
-Gongmei: Gongmei is made from wild group vegetable tea, usually with smaller leaves and low yield.
+White tea is renowned for its gentle flavor, delicate aroma, and health benefits. It is often called the "living fossil" of tea, as its production process is the simplest among all six categories, preserving the natural characteristics of tea leaves. White tea is primarily produced in **Fujian province**, with **Fuding** and **Zhenghe** being the most renowned production regions.
 
-## Health Benefits of White Tea:
-White tea is believed to offer several health benefits, including antioxidant properties, blood pressure reduction, and immune system enhancement. Due to its low caffeine content, white tea is also suitable as a relaxing beverage, helping to unwind and destress.
+## Production Process
+
+**Full process:** Picking → **Withering** → Drying
+
+White tea's production is remarkably simple:
+
+1. **Picking** — White tea is made from tender buds and young leaves, rich in tea polyphenols and amino acids.
+2. **Withering** — After picking, the leaves are naturally withered under sunlight or indoors to reduce moisture. There is no kill-green step, allowing minimal natural oxidation.
+3. **Drying** — The leaves are gently dried at low temperatures, preserving the natural components and aroma.
+
+Due to this uncomplicated processing, white tea retains the natural characteristics of the tea plant, resulting in a mild flavor with a unique, sweet taste.
+
+## Varieties of White Tea
+
+| Variety | Chinese | Raw Material | Characteristics |
+|---------|---------|-------------|----------------|
+| Silver Needle | 白毫银针 | Tender buds only | Highest grade; silvery-white appearance, sweet taste, floral aroma |
+| White Peony | 白牡丹 | Buds + 1-2 leaves | Clear liquor with fruity and floral notes |
+| Gongmei | 贡眉 | Small-leaf group cultivar | Smaller leaves, lower yield, traditional variety |
+| Shoumei | 寿眉 | Older leaves, fewer buds | Bolder flavor, excellent for aging |
+
+## Aging Potential
+
+White tea is one of the few teas that can improve with age. There is a popular saying: **"One year tea, three years medicine, seven years treasure"** (一年茶，三年药，七年宝). Aged white tea develops a smoother, richer flavor and is often compressed into cakes for long-term storage.
+
+## Brewing Guide
+
+- **Water temperature:** 85–90°C (for young white tea); 95–100°C (for aged white tea)
+- **Tea-to-water ratio:** 3–5g per 150ml
+- **Steeping time:** 1–2 minutes
+- **Teaware:** Porcelain gaiwan or glass cup
+
+## Health Benefits
+
+White tea is believed to offer antioxidant properties, blood pressure reduction, and immune system enhancement. Due to its low caffeine content, white tea is suitable as a relaxing everyday beverage.
+
+---
+
+**Browse other tea categories:** [Green Tea](../GreenTea/README.md) | [Yellow Tea](../YellowTea/README.md) | [Oolong Tea](../OolongTea/README.md) | [Black Tea](../BlackTea/README.md) | [Dark Tea](../DarkTea/README.md)
