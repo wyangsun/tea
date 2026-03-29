@@ -109,7 +109,7 @@ New to Chinese tea? Here are some beginner-friendly recommendations:
 |-----------------|---------|-----|
 | Light, refreshing | **Longjing** (Green Tea) | Clean, chestnut-sweet, easy to brew in a glass cup |
 | Sweet, gentle | **Fuding Silver Needle** (White Tea) | Naturally sweet, forgiving steep time |
-| Rich, aromatic | **Tieguanyin** (Oolong Tea) | Floral aroma, smooth body, rewarding to re-steep |
+| Rich, aromatic | **Jin Xuan / Milk Oolong** (Oolong Tea) | Creamy, naturally smooth with a subtle milky aroma |
 | Bold, warming | **Dianhong** (Black Tea) | Honey-sweet, full-bodied, great with or without milk |
 | Deep, earthy | **Ripe Pu'er** (Dark Tea) | Smooth and mellow, excellent after meals |
 | Floral, fragrant | **Jasmine Tea** (Flower Tea) | Easy to find, universally enjoyable |
