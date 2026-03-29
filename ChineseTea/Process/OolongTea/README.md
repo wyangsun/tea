@@ -33,6 +33,7 @@ The key step unique to oolong is **shaking and bruising (摇青/做青)**, where
 ### Taiwan
 - **Dong Ding (冻顶)** — Medium-roasted, smooth and sweet.
 - **Oriental Beauty (东方美人)** — Heavily oxidized, honey-sweet with a fruity aroma.
+- **Jin Xuan (金萱)** — Also known as "Milk Oolong." A creamy, naturally smooth tea with a subtle milky aroma. Highly recommended for beginners.
 - **Ali Shan (阿里山)** — High-mountain oolong, light and floral.
 
 ## Brewing Guide
